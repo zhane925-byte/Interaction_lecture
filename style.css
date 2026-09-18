@@ -12,6 +12,10 @@ h2{
     Color:rgb(0, 234, 255)
 }
 
+h3{
+    font-size: 100px;
+    color: hotpink;
+}
 body{
     background-color: black;
 }
