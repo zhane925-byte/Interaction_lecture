@@ -1,6 +1,9 @@
 h1{ 
     font-size:200px ;
-    Color:rgb(0, 234, 255)
+    Color:rgb(0, 234, 255);
+    letter-spacing: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 
 }
 
